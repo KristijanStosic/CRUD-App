@@ -12,5 +12,5 @@ Simple web application with CRUD operations that displays a list of products. It
 
 
 
-### Frontend: https://priceless-dubinsky-88c86a.netlify.app/
+### Frontend: https://rva-frontend.netlify.app/
 ### Backend: https://rva-backend-kristijan.herokuapp.com/
